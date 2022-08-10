@@ -26,7 +26,7 @@ class Program
 			int position = thirdPosition(number);
 			if(position >= 0)
 			{
-				Console.WriteLine("Третья цифра этого числа равна = " + position + ".");	
+				Console.WriteLine("Третья цифра этого числа = " + position + ".");	
 			} 
 			else if (position > -2 && position < 0)
 			{
