@@ -21,7 +21,7 @@ class Program
 		int position = SecondPosition(number);
 		if(position > 0)
 		{
-			Console.WriteLine("Вторая цифра этого числа равна = " + position + ".");	
+			Console.WriteLine("Вторая цифра этого числа = " + position + ".");	
 		} else
 		{
 			Console.WriteLine("Введённое чиcло не является трехзначным целым натуральным числом!");
